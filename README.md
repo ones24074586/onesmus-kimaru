@@ -1,2 +1,2 @@
 # onesmus-kimaru
-web designer repository
+new web designer repository
